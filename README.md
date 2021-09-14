@@ -1,4 +1,4 @@
-My Computer Science Labs
+Computer Science 1010
 
 I upload them as I finish them.
 
