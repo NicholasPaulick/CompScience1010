@@ -1,4 +1,3 @@
-LINES = 1
 MOVES = ["rock", "paper", "scissors"]
 
 # Gets the PLAYers names.
