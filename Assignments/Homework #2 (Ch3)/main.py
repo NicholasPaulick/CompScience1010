@@ -7,7 +7,7 @@ P2_NAME = input("What's PLAYer 2's name? ")
 # Users tell if they want to PLAY.
 PLAY = input("Would you like to PLAY rock, paper, scissors? yes/no ")
 
-# If the PLAYers want to PLAY the code is executed.
+# If the Players want to PLAY the code is executed.
 if PLAY == "yes":
 
     # Gets the PLAYer 1 move choice
@@ -46,5 +46,7 @@ if PLAY == "yes":
         print(P2_NAME, "Wins!")
     elif P1CHOICE == "paper" and P2_CHOICE == "scissors":
         print(P2_NAME, "Wins!")
+
+# If the players don't want to play is says goodbye
 elif PLAY == "no":
     print("Goodbye!")
