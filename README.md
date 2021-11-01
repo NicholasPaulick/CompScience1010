@@ -1,6 +1,6 @@
 Computer Science 1010
 
-I upload them as I finish them.
+I upload them when I have time.
 
 **Note**  
 Lab 1 didn't have any assignments so no folder will be uploaded
